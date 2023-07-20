@@ -1,0 +1,27 @@
+				Welcome Back In Contact_List_MauiProject(Part-1 , Part-2 ,Part-3)					
+
+
+@-Part-1: Contact_List_MauiProject
+
+The Contact_List_MauiProject is a project hosted on my GitHub repository. It aims to create a user-friendly contact list application using the Maui framework.
+
+
+
+@-Part-2: Advanced Functionality for Maui Project without API
+
+In the Maui project, we are implementing additional advanced functionalities to enhance communication capabilities:
+
+1-Calling: Users can initiate phone calls directly from the contact list application, making it convenient to stay connected with their contacts.
+
+2-Email: Integration of email functionality allows users to compose and send emails to their contacts without leaving the app.
+
+3-Messaging: The app enables users to send text messages or instant messages to their contacts seamlessly.
+
+4-Communication Details: We are providing a comprehensive view of communication details for each contact, including call logs, email history, and message threads.
+
+By adding these advanced communication features, our Maui project will become a versatile tool for managing contacts and maintaining seamless communication with friends, family, and colleagues.
+
+
+
+@-Part-3: Contact_List_MauiProject  
+.....Coming soon
